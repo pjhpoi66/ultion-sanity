@@ -22,7 +22,7 @@ export default {
         {
             name: "topText",
             type: "string",
-            title: "Top Textss",
+            title: "Top Textss!!!",
         },
         {
             name: "mainImage",
